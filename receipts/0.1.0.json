@@ -2,6 +2,7 @@
   "app_repository_commit": null,
   "architecture_digests": {
     "app": {
+      "amd64": "sha256:0c15edb9218d3e085f69faecb36ab5b0d20f4b66bfda3165dbec55c3de02e96d",
       "arm64": "sha256:0bb4389758c1aea663d740bd1a435f905b2ed569511addf79e3908df576b7733"
     },
     "standalone": {
@@ -23,5 +24,5 @@
     "standalone": "sha256:bfb2c55854da3b7b857ee507a9ac57971154c12d658c9517acde52a16024c0d0"
   },
   "schema": 1,
-  "status": "published_app_arm64"
+  "status": "published_app_amd64"
 }

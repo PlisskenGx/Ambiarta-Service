@@ -21,8 +21,9 @@
     "standalone_image": "ghcr.io/plisskengx/ambiarta-service-device"
   },
   "manifest_digests": {
+    "app": "sha256:6955fd96a86aeda7c93470678433deac9f0562539ad78161dbf69b9127ca4d2d",
     "standalone": "sha256:bfb2c55854da3b7b857ee507a9ac57971154c12d658c9517acde52a16024c0d0"
   },
   "schema": 1,
-  "status": "published_app_amd64"
+  "status": "published_app_manifest"
 }

@@ -2,7 +2,9 @@
   "app_repository_commit": null,
   "architecture_digests": {
     "app": {},
-    "standalone": {}
+    "standalone": {
+      "arm64": "sha256:137aac175e94b36ec4a5afde67b9620b513da09ce24fee78176373a26bdf3f2f"
+    }
   },
   "identity": {
     "app_branch": "main",
@@ -16,5 +18,5 @@
   },
   "manifest_digests": {},
   "schema": 1,
-  "status": "preflight_complete"
+  "status": "published_standalone_arm64"
 }

@@ -1,0 +1,20 @@
+{
+  "app_repository_commit": null,
+  "architecture_digests": {
+    "app": {},
+    "standalone": {}
+  },
+  "identity": {
+    "app_branch": "main",
+    "app_image": "ghcr.io/plisskengx/ambiarta-service",
+    "app_repository": "PlisskenGx/Ambiarta-Service",
+    "app_version": "0.1.0",
+    "backend_version": "0.12.0rc1",
+    "files_sha256": "fdab41b831eb21434e4bba36e0ca81bd2926962c7048b26a5b53b0d079d50b54",
+    "source_commit": "13183530d4d5480537ccbcad8f0562a0c9762e3e",
+    "standalone_image": "ghcr.io/plisskengx/ambiarta-service-device"
+  },
+  "manifest_digests": {},
+  "schema": 1,
+  "status": "preflight_complete"
+}

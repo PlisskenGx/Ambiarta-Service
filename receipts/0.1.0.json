@@ -3,6 +3,7 @@
   "architecture_digests": {
     "app": {},
     "standalone": {
+      "amd64": "sha256:856b80276ef6e5c8d00dad41adb8a9dc5d21b7f87510d0bb4a4969c880fb7bcc",
       "arm64": "sha256:137aac175e94b36ec4a5afde67b9620b513da09ce24fee78176373a26bdf3f2f"
     }
   },
@@ -18,5 +19,5 @@
   },
   "manifest_digests": {},
   "schema": 1,
-  "status": "published_standalone_arm64"
+  "status": "published_standalone_amd64"
 }
